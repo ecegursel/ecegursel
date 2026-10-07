@@ -50,12 +50,15 @@ I enjoy working across both the technical and creative sides of game development
 
 ### Hospital Appointment System
 
-A desktop hospital appointment management application developed with **C#, Windows Forms, Entity Framework Core, and SQL Server**.
+A desktop application for managing hospital appointments, developed with **C#, Windows Forms, Entity Framework Core, and SQL Server**.
 
-The project includes appointment management, doctor and specialty selection, patient information management, and SQL Server database integration.
+**Key Features**
+- Appointment management
+- Doctor and specialty selection
+- Patient information management
+- SQL Server database integration
 
-[View Repository →](https://github.com/ecegursel/Hospital-Appointment-System)
-
+[**View Project →**](https://github.com/ecegursel/Hospital-Appointment-System)
 ---
 
 ## 🚀 Currently

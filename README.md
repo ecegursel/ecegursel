@@ -12,15 +12,29 @@ I enjoy working across both the technical and creative sides of game development
 
 ## 🎮 Game Development
 
-- Unity
-- C#
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+**Game Development**
+- PC & Mobile Game Development
 - 2D Game Development
-- Mobile Game Development
-- PC Game Development
 - Gameplay Programming
 - Game Mechanics & Systems
 - UI Implementation
 - Animation & Game Feel
+
+---
+
+## 🛠️ Technologies & Tools
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+`Windows Forms` · `Entity Framework Core`
+
+
 
 ## 💻 Additional Technologies
 

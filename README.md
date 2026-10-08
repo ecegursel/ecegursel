@@ -1,12 +1,10 @@
 # Hi, I'm Ece 👋
 
-### Game Developer | Unity & C# | 2D & Mobile Games
+I'm a **Game Developer** focused on creating engaging and polished game experiences using **Unity and C#**.
 
-I'm a game developer focused on creating engaging and polished game experiences using **Unity and C#**.
+I have experience developing games for both **PC and mobile platforms**, working across gameplay programming, game mechanics, UI implementation, animation, and overall game feel.
 
-I have experience developing games for both **PC and mobile platforms**, including 2D game development, gameplay systems, UI implementation, animations, and game mechanics.
-
-I enjoy working across both the technical and creative sides of game development, from implementing gameplay mechanics and systems to improving the overall look, feel, and player experience.
+I enjoy combining the technical and creative sides of game development — turning ideas into playable experiences and refining the details that shape how a game looks, feels, and plays.
 
 ---
 
@@ -15,7 +13,6 @@ I enjoy working across both the technical and creative sides of game development
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-**Game Development**
 - PC & Mobile Game Development
 - 2D Game Development
 - Gameplay Programming
@@ -34,21 +31,11 @@ I enjoy working across both the technical and creative sides of game development
 
 `Windows Forms` · `Entity Framework Core`
 
-
-
-## 💻 Additional Technologies
-
-- .NET
-- Windows Forms
-- Entity Framework Core
-- SQL Server
-- Git & GitHub
-
 ---
 
 ## 📌 Featured Project
 
-### Hospital Appointment System
+### 🏥 Hospital Appointment System
 
 A desktop application for managing hospital appointments, developed with **C#, Windows Forms, Entity Framework Core, and SQL Server**.
 
@@ -59,14 +46,14 @@ A desktop application for managing hospital appointments, developed with **C#, W
 - SQL Server database integration
 
 [**View Project →**](https://github.com/ecegursel/Hospital-Appointment-System)
+
 ---
 
 ## 🚀 Currently
 
-🎮 Building and expanding my game development portfolio  
-🕹️ Developing games for PC and mobile platforms with Unity  
-💻 Improving my gameplay programming and C# skills  
-✨ Focusing on polished gameplay, visuals, UI, and overall game feel
+- 🎮 Building and expanding my game development portfolio
+- 🕹️ Developing games for PC and mobile platforms with Unity
+- ✨ Focusing on gameplay, visuals, UI, and overall game feel
 <!--
 **ecegursel/ecegursel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
